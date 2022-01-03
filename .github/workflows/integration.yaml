@@ -8,6 +8,7 @@ on:
       - '**/*.md'
     branches:
       - master
+      - add-cluster-script-support
   pull_request:
     branches:
       - master
